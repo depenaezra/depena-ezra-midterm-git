@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 40px;
+}
+
+h1 {
+    color: navy;
+}
+
+p {
+    font-size: 18px;
+}
+
+.skills {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
